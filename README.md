@@ -19,3 +19,5 @@ To add these libraries, here's the IDs:
 ```javascript
 1ReeQ6WO8kKNxoaA_O0XEQ589cIrRvEBA9qcWpNqdOP17i47u6N9M5Xh0
 ```
+
+TODO - complete the conversion from contained script to standalone script
