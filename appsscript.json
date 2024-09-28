@@ -1,6 +1,19 @@
 {
   "timeZone": "America/New_York",
   "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "mkHelpers",
+        "version": "0",
+        "libraryId": "1pkV84UaRd7PCg5UMOez6Y1MgaXASwyeGkXs0v0en_CSkKwDLdTeDP2FC",
+        "developmentMode": true
+      },
+      {
+        "userSymbol": "Cheerio",
+        "version": "14",
+        "libraryId": "1ReeQ6WO8kKNxoaA_O0XEQ589cIrRvEBA9qcWpNqdOP17i47u6N9M5Xh0"
+      }
+    ]
   },
   "exceptionLogging": "STACKDRIVER",
   "runtimeVersion": "V8"
